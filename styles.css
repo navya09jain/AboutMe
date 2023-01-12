@@ -1,0 +1,47 @@
+body {
+  background-color: #d2daff;
+}
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-width: 2.5px;
+  border-color: #94b3fd;
+}
+h2 {
+  color: #b983ff;
+}
+.aboutMe {
+  background-color: white;
+}
+.skills {
+  background-color: white;
+}
+.hobbies {
+  background-color: white;
+}
+.handle {
+  background-color: white;
+  margin: 0;
+  padding: 8px;
+}
+#clubs {
+  background-color: white;
+}
+#languages {
+  background-color: white;
+}
+.ed {
+  background-color: white;
+  border-color: white;
+}
+.row {
+  background-color: #d2daff;
+  height: 70px;
+  border-color: white;
+}
+#reach {
+  color: #b983ff;
+}
+.age {
+  padding-left: 80px;
+}
